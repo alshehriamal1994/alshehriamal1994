@@ -1,21 +1,23 @@
 ## Amal Saad Alshehri
 
-PhD researcher in Legal NLP and Information Retrieval at Durham University.
-I work on retrieval and entailment over statutory and case law, and on
-evaluation methods for legal language models.
+I am a PhD researcher at Durham University, working on legal NLP and
+information retrieval. Most of my work is on retrieval and entailment
+over statute and case law, and on how we evaluate legal language models.
 
-**Current work**
-- Team DU systems for COLIEE 2026 (ranked first on Task 4, statute-law entailment)
-- Neural reranking for UK statutory retrieval
+### Shared tasks
+- COLIEE 2026 (ICAIL 2026): our team ranked first on Task 4, statute law entailment.
+- Daleel 2026 (ArabicNLP 2026, at EMNLP 2026): our team was awarded first prize
+  for Arabic argument mining.
+- AISA-ArabicFC 2026 (ArabicNLP 2026): Arabic function calling.
 
-**Selected work**
-- *Neural reranking for UK statutory retrieval: Provision-level evaluation and
-  an open distilled model.* Artificial Intelligence and Law, 2026.
+### Papers and code
+- Neural reranking for UK statutory retrieval: provision-level evaluation and
+  an open distilled model. Artificial Intelligence and Law, 2026.
   https://doi.org/10.1007/s10506-025-09501-6
-- [team-du-coliee-2026](https://github.com/alshehriamal1994/team-du-coliee-2026) — Durham systems for COLIEE 2026
-- [uk-statute-retrieval](https://github.com/alshehriamal1994/uk-statute-retrieval) — code for the paper above
-- [legal-ai-quiz](https://github.com/alshehriamal1994/legal-ai-quiz) — can you read the law like my model?
+  Code: [uk-statute-retrieval](https://github.com/alshehriamal1994/uk-statute-retrieval)
+- [team-du-coliee-2026](https://github.com/alshehriamal1994/team-du-coliee-2026): our COLIEE 2026 systems
+- [daleel2026-durham-jazan](https://github.com/alshehriamal1994/daleel2026-durham-jazan): our Daleel 2026 system
+- [aisa2026-durham-jazan](https://github.com/alshehriamal1994/aisa2026-durham-jazan): our AISA-ArabicFC 2026 system
 
-**Links**
-- ORCID: https://orcid.org/0000-0001-6903-6720
-- Web: https://alshehriamal1994.github.io/amal_saad_alshehri/
+ORCID: https://orcid.org/0000-0001-6903-6720
+Website: https://alshehriamal1994.github.io/amal_saad_alshehri/
